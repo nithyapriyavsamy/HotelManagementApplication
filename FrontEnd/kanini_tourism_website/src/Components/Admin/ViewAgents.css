@@ -1,0 +1,33 @@
+
+.scrollto:hover{
+    background-color:rgb(212, 104, 104);
+}
+.approve{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+.filterbtn:hover{
+     background-color: brown;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+  
+
+th {
+    background-color: #b43030;
+    color: #fff;
+}
+.agentslist{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;   
+}
+
+
+

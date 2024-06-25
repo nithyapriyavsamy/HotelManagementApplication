@@ -1,0 +1,29 @@
+.editContent{
+    margin-top:25px !important;
+}
+
+.imagesabout{
+    height: 200px;
+    width: 300px;
+}
+
+.portfolio-container{
+    justify-content: center;
+    position: relative;
+}
+.amenitylist{
+    justify-content: space-evenly;
+    position: relative;
+    flex: wrap;
+    align-items: center;
+}
+.roomsarea{
+    justify-content: center;
+    position: relative;
+}
+.close:hover{
+    color: red;
+}
+.amenityshow{
+    width: 300px;
+}
